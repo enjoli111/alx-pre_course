@@ -1,1 +1,1 @@
-
+black is beautiful
